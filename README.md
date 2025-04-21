@@ -1,2 +1,2 @@
-# -SSL
+# SSL
 ## Manuel Acero
